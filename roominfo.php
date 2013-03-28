@@ -5,11 +5,13 @@
  * Description:
  * Retrieve info about an Adobe Connect Room
  *
+ * Syntax: roominfo -h host -u username -p password [-v] room_url
  * Arguments
  *	-h hostname     required
  *	-p password     required
  *	-u username     required
  *	-v              optional
+ * room_url         required - just the final part of the URL
  * 
  * Distributed: Under GPL - See COPYING for info
  * Copyright: 2009-2013 Simon Hanmer (simon.hanmer@gmail.com)
