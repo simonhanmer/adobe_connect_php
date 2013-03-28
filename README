@@ -19,5 +19,12 @@ WHAT IT DOES
 The code contained in this repository interacts with an Adobe Connect server to retrieve or manipulate
 objects on that server.
 
+SCRIPTS
+----------
+connect_lib.php		general library
+listrooms.php		list all rooms and associated info
+listusers.php		list all users and associated info
+roominfo.php		show info about a specific room
 
 COPYRIGHT 2010-2013 Simon Hanmer    simon.hanmer@gmail.com
+
