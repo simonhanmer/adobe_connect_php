@@ -1,0 +1,23 @@
+LEGAL STUFF:
+---------------
+Code in this repository is used at your own risk, we cannot be held responsible if you use it
+and it
+a) Destroys or corrupts data
+b) Reformat's your server
+c) Causes black holes to form in your vicinity
+d) Does anything bad
+
+In other words, assume this code doesn't work, it will eat your data and generally make your life a pain.
+
+Code in the repository is released under the GPL License (see COPYING) unless otherwise stated.
+
+All mentions of Adobe Connect refer to the product registered by Adobe. We acknowledge the registered Trademarks of Adobe & Adobe Connect.
+
+
+WHAT IT DOES
+---------------
+The code contained in this repository interacts with an Adobe Connect server to retrieve or manipulate
+objects on that server.
+
+
+COPYRIGHT 2010-2013 Simon Hanmer    simon.hanmer@gmail.com
